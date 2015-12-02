@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "EMAX/Nighthawk-250-Carbon-Fiber-Frame-Combo-CC3D-MT2204-Motor-12A-ESC",
+    "esc": "EMAX/Simonk-Series-12A-20A-25A-30A-40A-ESC-For-Quadcopter-QAV250",
+    "motor": "EMAX/MT2204-2300KV",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "Gemfan/6x3-CFN-MR"
+    ],
+    "arm": "THug-FRAMES/EMAX-NIGHTHAWK-250-THuGARMS-5mm",
+    "battery": [
+      "Dinogy/3S-2200mAh-30C"
+    ],
+    "osd": "",
+    "receiver": "UnknownManufacturer/readymaderc/DX6i-6-Channel-Transmitter-Only---Mode-2---SPMR6630",
+    "flightcam": "Aomway/1200TVL-960P-Sony-CCD-HD-Mini-Camera-2.8mm-Lens-for-FPV",
+    "hqcam": "Eachine/700TVL-1-3-Cmos-110-Degree-Lens-FPV-Camera",
+    "videotx": "Eachine/700tvl-600mW-1-3-Cmos-FPV-110-148-Degree-Camera-w-32CH-Transmission",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
